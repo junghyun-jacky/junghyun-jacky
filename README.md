@@ -30,7 +30,7 @@
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)  
 ![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-   
+
 ![datagrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=DataGrip&logoColor=white)
 ![SqlDeveloper](https://img.shields.io/badge/SqlDeveloper-3d3d3d?style=for-the-badge&logo=SqlDeveloper&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-5b82a3?style=for-the-badge&logo=DBeaver&logoColor=white)
