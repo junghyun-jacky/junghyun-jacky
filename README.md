@@ -1,5 +1,8 @@
-## Hi there 👋 I'm junghyun Park !
+### Hi there 👋 I'm junghyun Park !
 ✉️ ros28081@gmail.com
+
+<br>
+
 <div align="center">
    
 ## 💻 Tech Stack 💻   
