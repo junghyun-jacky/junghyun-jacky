@@ -2,9 +2,9 @@
 ✉️ ros28081@gmail.com
 <div align="center">
 
-💻 Tech Stack 💻   
+### 💻 Tech Stack 💻   
    
-   ✨ Languages & Platforms ✨   
+##### ✨ Languages & Platforms ✨   
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -23,7 +23,7 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
    
-   ⚒ Tools ⚒   
+##### ⚒ Tools ⚒   
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4a154b?style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
@@ -37,7 +37,7 @@
 ![DBeaver](https://img.shields.io/badge/DBeaver-5b82a3?style=for-the-badge&logo=DBeaver&logoColor=white)
 
    
-   🖥 Tech Blog 🖥   
+##### 🖥 Tech Blog 🖥   
 ![tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)
 
 <br>
