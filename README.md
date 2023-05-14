@@ -22,8 +22,9 @@
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+
+<br>
    
-   <br>
 #### ⚒ Tools ⚒   
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4a154b?style=for-the-badge&logo=slack&logoColor=white)
@@ -37,7 +38,8 @@
 ![SqlDeveloper](https://img.shields.io/badge/SqlDeveloper-3d3d3d?style=for-the-badge&logo=SqlDeveloper&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-5b82a3?style=for-the-badge&logo=DBeaver&logoColor=white)
 
-   <br>
+<br>
+   
 #### 🖥 Tech Blog 🖥   
 ![tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)
 
