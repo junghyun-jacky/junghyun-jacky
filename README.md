@@ -44,9 +44,9 @@
 <br>
    
 #### 🖥 Tech Blog 🖥   
-![tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)
+![https://studyitwithj.tistory.com/](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)
 
-<br>
+   <br>
   
 ![junghyun-jacky's GitHub stats](https://github-readme-stats.vercel.app/api?username=junghyun-jacky&show_icons=true&theme=radical)
 
