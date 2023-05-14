@@ -44,7 +44,7 @@
 <br>
    
 #### 🖥 Tech Blog 🖥   
-[!(https://studyitwithj.tistory.com/)](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)
+[![tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://studyitwithj.tistory.com/)
 
    <br>
   
