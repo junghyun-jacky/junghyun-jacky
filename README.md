@@ -5,7 +5,7 @@
 
 <div align="center">
    
-## 💻 Tech Stack 💻   
+## 💻 Tech Stack    
    
 #### ✨ Languages & Platforms ✨   
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
