@@ -7,7 +7,7 @@
    
 #### ✨ Languages & Platforms ✨   
 ![Static Badge](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white)
-![Static Badge](https://img.shields.io/badge/springsecurity-6DB33F?logo=springsecurity&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SpringSecurity-6DB33F?logo=springsecurity&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Node.js-00733993396?logo=Node.js&logoColor=white)   
    
