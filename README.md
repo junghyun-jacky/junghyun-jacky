@@ -3,7 +3,7 @@
 
 <div align="center">
    
-### 💻 Tech Stack    
+### 💻 Once I've used   
    
 #### ✨ Languages & Platforms ✨   
 ![Static Badge](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white)
